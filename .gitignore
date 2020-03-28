@@ -1,0 +1,15 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+__pycache__
+.pytest_cache
+
+wiki
+fu.zip
+FrackinUniverse-master
+fu_version.txt
+log.txt
